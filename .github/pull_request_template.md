@@ -6,13 +6,18 @@
 
 **Place an X inside the brackets to check**
 
-- [] Is this a version bump?
-- [] Is this a sub-task of a larger issue?
-- [] Are multiple reviewers required?
-- [] Are screenshots included (if applicable)?
-- [] Does this change require documentation updates?
-- [] Have you added unit tests for the new functionality?
-- [] Is there any user-facing change that needs special attention?
+### Required Questions
+
+- [] **Have you done unit tests for the changes?**
+- [] **Is this a sub-task of a larger issue?**
+  - If yes, please link to the main issue.
+- [] **Will this feature need a documentation update?**
+
+### Optional Questions
+
+- [] **Is this a version bump?**
+- [] **Are multiple reviewers required?**
+- [] **Are screenshots included (if applicable)?**
 
 ## **Description of Changes**
 
